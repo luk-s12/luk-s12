@@ -1,6 +1,5 @@
 <p align="right">
-<img height="250px" align="rigth" src="https://github.com/luk-s12/luk-s12/blob/master/img/caza.png">
-</br>
+<img height="300px" align="rigth" src="https://github.com/luk-s12/luk-s12/blob/master/img/caza.png">
 </p>
 
 <p  align="left">
